@@ -1,0 +1,4 @@
+3
+weapon			640 serioussam/ssweapons04	0	45	176	48
+weapon_s		640 serioussam/ssweapons04	0	45	176	48
+ammo			640 serioussam/ssammo		0	64	32	32

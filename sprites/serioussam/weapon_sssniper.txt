@@ -1,0 +1,5 @@
+4
+weapon			640 serioussam/ssweapons03	0	192	176	48
+weapon_s		640 serioussam/ssweapons03	0	192	176	48
+ammo			640 serioussam/ssammo		96	32	32	32
+zoom			640 ofch2  									0  	0   256  256
